@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **DevanshPundir-debug/DevanshPundir-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
 
 
