@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devanshpundir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-pundir-546a8421a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]((https://stackoverflow.com/users/32376161/devansh-pundir?tab=profile)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devanshpundir07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devasnhpundir7187@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/G8exmHxuSc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-pundir-546a8421a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]((https://stackoverflow.com/users/32376161/devansh-pundir?tab=profile)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devanshpundir07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devasnhpundir7187@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevanshPundir-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
